@@ -23,9 +23,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/5xtDarsTXU7E2iLAjf2/giphy.gif" transform="rotate(90)" width="1200" height="400"/>
+  <img src="https://media.giphy.com/media/3oEdvch5M530oOhvig/giphy.gif" width="1200" height="400"/>
 </div>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :man_technologist: About Me :
 I am a Graphic Designer, Video Editor and Music Producer studying Full Stack Development from Argentina.
