@@ -4,6 +4,6 @@
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/Instagram-lila?style=for-the-badge&logo=instagram&logoColor=violet" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=violet" alt="Instagram Badge"/>
   <img src="https://img.shields.io/badge/Behance-gray?style=for-the-badge&logo=behance&logoColor=black" alt="Behance Badge"/>
 </div>
