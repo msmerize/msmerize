@@ -25,7 +25,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3oEdvch5M530oOhvig/giphy.gif" width="1200" height="400"/>
 </div>
-------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :man_technologist: About Me :
 I am a Graphic Designer, Video Editor and Music Producer studying Full Stack Development from Argentina.
