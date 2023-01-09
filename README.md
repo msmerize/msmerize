@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/martin-salvador-privitera-220292/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Mertinss">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://www.instagram.com/msprivitera/">
     <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=violet" alt="Instagram Badge"/>
   </a>
