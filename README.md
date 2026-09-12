@@ -30,7 +30,7 @@ Hey there, studied Graphic Design, Sound/Video Edition and Full Stack Developmen
 
 - :seedling: Constantly growing like a spiral, seeking knowledge and learning everything of the field, tech passionate.
 
-- :zap: Currently working in my original idea https://www.dontheater.com // Founder of DonTheater
+- :zap: Currently working in my original idea https://www.dontheater.com // Founder of @DonTheater
 
 - :mailbox: You can reach me clicking the links above.
 - ---
