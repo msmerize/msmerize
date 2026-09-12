@@ -24,13 +24,13 @@
 </div>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### :man_technologist: About Me :
-I am a Graphic Designer, Video Editor and Music Producer studying Full Stack Development from Argentina.
-- :telescope: I’m working as a Freelance graphic designer contributing to the frontend of the AML company.
+### :man_technologist: About :
+Hey there, studied Graphic Design, Sound/Video Edition and Full Stack Development in Argentina.
+- :telescope: Been working as a QA for the last two and half years at the DeFi company Squid-Router.
 
 - :seedling: Constantly growing like a spiral, seeking knowledge and learning everything of the field, tech passionate.
 
-- :zap: In my free time, I do Skethes and throw ideas on Illustrator to work with them later.
+- :zap: Currently working in my original idea https://www.dontheater.com // Founder of DonTheater
 
 - :mailbox: You can reach me clicking the links above.
 - ---
